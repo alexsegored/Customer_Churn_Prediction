@@ -104,6 +104,3 @@ Las siguientes características muestran la **importancia absoluta** de los coef
 
 ## 🤝 Contribuciones
 Las contribuciones son bienvenidas. Por favor, abre un issue o pull request para sugerencias o mejoras.
-
-## 👤 Autor
-Alejandro Segovia Redondo
