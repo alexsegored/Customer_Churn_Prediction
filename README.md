@@ -35,7 +35,7 @@ Customer_Churn_Prediction/
 │
 ├── 📓​ notebooks/
 │   ├── EDA.ipynb                # Análisis exploratorio
-│   ├── ModelTraining.ipynb      # Logistic Regression XGBoost Random Forrest
+│   ├── ModelTraining.ipynb      # Logistic Regression XGBoost Random Forest
 │   └── Preprocessing.ipynb      # Preprocesamiento
 │
 ├── .gitattributes
